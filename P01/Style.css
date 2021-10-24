@@ -1,1 +1,11 @@
-Style.css
+.jumbotron {
+  background-color: rgb(37, 35, 124);
+  color: white;
+  padding: 1em;
+}
+.textarea {
+  height: 200px;
+}
+html {
+  font-size: 1.2em;
+}
